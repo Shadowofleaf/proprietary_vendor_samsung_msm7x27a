@@ -17,5 +17,4 @@
 
 ## Sensors
 PRODUCT_COPY_FILES += \
-    vendor/samsung/jena/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/samsung/jena/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so
